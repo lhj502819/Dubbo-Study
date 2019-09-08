@@ -1,0 +1,3 @@
+dubbo\test\ProviderApplication.class
+dubbo\test\provider\impl\DubboProviderServiceImpl.class
+dubbo\test\provider\DubboProviderService.class
